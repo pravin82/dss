@@ -1,5 +1,6 @@
 # The Percolator lab
 
+
 ## What is Percolator
 
 Percolator is a system built by Google for incremental processing on a very
