@@ -14,6 +14,7 @@ pub mod raftpb {
     };
 }
 
+
 pub mod kvraftpb {
     include!(concat!(env!("OUT_DIR"), "/kvraftpb.rs"));
 
